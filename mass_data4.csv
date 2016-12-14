@@ -1,4 +1,4 @@
-cont,status,order,Family,genus,species,logM,M,mass
+cont,status,order,Family,genus,species,logM,M,mass,test
 NA,extant,Artiodactyla,Antilocapridae,Antilocapra,americana,4.66,46082.9,46.0829
 AF,extant,Artiodactyla,Bovidae,Addax,nasomaculatus,4.85,70000.3,70.0003
 AF,extant,Artiodactyla,Bovidae,Aepyceros,melampus,4.72,52500.1,52.5001
